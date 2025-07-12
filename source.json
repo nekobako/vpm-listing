@@ -14,6 +14,7 @@
   "bannerUrl": "banner.png",
   "githubRepos": [
     "nekobako/GestureWeightSmoothing",
-    "nekobako/EditorPatcher"
+    "nekobako/EditorPatcher",
+    "nekobako/MaskTextureEditor"
   ]
 }
