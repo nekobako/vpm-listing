@@ -15,6 +15,7 @@
   "githubRepos": [
     "nekobako/GestureWeightSmoothing",
     "nekobako/EditorPatcher",
-    "nekobako/MaskTextureEditor"
+    "nekobako/MaskTextureEditor",
+    "nekobako/BlinkSuppressor"
   ]
 }
