@@ -16,6 +16,7 @@
     "nekobako/GestureWeightSmoothing",
     "nekobako/EditorPatcher",
     "nekobako/MaskTextureEditor",
-    "nekobako/BlinkSuppressor"
+    "nekobako/BlinkSuppressor",
+    "nekobako/BlendShapeModifier"
   ]
 }
