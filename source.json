@@ -17,6 +17,7 @@
     "nekobako/EditorPatcher",
     "nekobako/MaskTextureEditor",
     "nekobako/BlinkSuppressor",
-    "nekobako/BlendShapeModifier"
+    "nekobako/BlendShapeModifier",
+    "nekobako/BoneWeightModifier"
   ]
 }
